@@ -1,2 +1,2 @@
 # AirPods
-site for AirPods Max on html, css, js
+Demo - https://danya-web.github.io/AirPods/
